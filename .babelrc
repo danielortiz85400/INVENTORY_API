@@ -1,0 +1,8 @@
+//CONFIGURACIÓN DE BABEL
+
+{
+    "presets": ["@babel/env"],
+    "plugins": [
+        ["@babel/transform-runtime"]
+    ]
+}
